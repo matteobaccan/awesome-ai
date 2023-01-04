@@ -3,11 +3,18 @@ List of public AI services
 
 
 ##
+
+# Text contents
+
 - [ChatGPT](https://chat.openai.com/) - Generative Pre-trained Transformer chatbot
 - [ChatBCG](https://www.chatbcg.com/) - Generative AI for Slides.
 - [Synthesia](https://www.synthesia.io) - Create videos from plain text in minutes
-- [Dall-E](https://openai.com/dall-e-2/) - Create image from text
 - [Copy.ai](https://copy.ai) - Create textual content
+
+# Graphics contents
+
+- [Dall-E](https://openai.com/dall-e-2/) - Create image from text
+- [Synthesia](https://synthesia.io) - Create Virtual Avatar
 
 <!--
 ⭕️ notion.so/ai - genera newsletter e molto altro
@@ -18,7 +25,6 @@ List of public AI services
 ⭕️ personacardai.com - genera personas da CRM
 ⭕️ clickable.so - genera ads content
 ⭕️ runwayml.com - crea, edita immagini e video
-⭕️ synthesia.io - genera virtual avatar
 ⭕️ donotpay.com - avvocato AI
 ⭕️ midjourney.com - genera immagini da testo
 ⭕️ sloyd.ai - genera 3D content da testo
