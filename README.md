@@ -21,10 +21,10 @@ We strive to keep the list comprehensive and accurate, so if you come across any
 - [Dall-E](https://openai.com/dall-e-2/) - Create image from text
 - [Synthesia](https://synthesia.io) - Create Virtual Avatar
 - [Midjourney](https://www.midjourney.com) - Generate image from text
+- [Waymark](https://waymark.com) - Create video
 
 <!--
 ⭕️ notion.so/ai - genera newsletter e molto altro
-⭕️ tome.app - genera presentazioni 
 ⭕️ waymark.com - ai video creator 
 ⭕️ namelix.com - genera domain name
 ⭕️ withflair.ai - genera branded content 
