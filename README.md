@@ -13,15 +13,15 @@ We strive to keep the list comprehensive and accurate, so if you come across any
 
 - [ChatGPT](https://chat.openai.com/) - Generative Pre-trained Transformer chatbot
 - [ChatBCG](https://www.chatbcg.com/) - Generative AI for Slides.
-- [Synthesia](https://www.synthesia.io) - Create videos from plain text in minutes
 - [Copy.ai](https://copy.ai) - Create textual content
 
 # Graphics contents
 
 - [Dall-E](https://openai.com/dall-e-2/) - Create image from text
-- [Synthesia](https://synthesia.io) - Create Virtual Avatar
+- [Synthesia](https://www.synthesia.io) - Create videos from plain text in minutes
 - [Midjourney](https://www.midjourney.com) - Generate image from text
 - [Waymark](https://waymark.com) - Create video
+- [Runwayml](https://app.runwayml.com/) - Create video and online editing with Chrome
 
 <!--
 ⭕️ notion.so/ai - genera newsletter e molto altro
